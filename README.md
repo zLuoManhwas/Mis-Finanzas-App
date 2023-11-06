@@ -19,7 +19,7 @@ flutter pub get
 
 3 Compile the project for Android: 
 ```shell
-flutter build apk --release```
+flutter build apk --release
 ```
 
 4 Install the apk on your connected Android device: 
