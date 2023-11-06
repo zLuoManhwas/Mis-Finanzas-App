@@ -7,7 +7,9 @@ Steps:
 
 1 get the project: clone the repository
 
-2 write on your command line to install the dependencies: ```flutter pub get```
+2 write on your command line to install the dependencies: ```shell
+flutter pub get
+```shell
 
 3 Compile the project for Android: ```flutter build apk --release```
 
