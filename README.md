@@ -5,7 +5,7 @@ A new Flutter project to help you organize your finances.
 
 Steps:
 
-1 get the project: clone the repository:
+1 get the project cloning the repository:
 ```shell
 git clone https://github.com/zLuoManhwas/Mis-Finanzas-App.git
 ```
